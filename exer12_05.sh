@@ -2,6 +2,7 @@
 # for the user are: blue, yellow, red, orange. Print a message of your choice in response
 # to each coloured selected by the user.
 # Change by clupeasquash
+# another change
 
 read -p "Enter your favorite color: " color
 
