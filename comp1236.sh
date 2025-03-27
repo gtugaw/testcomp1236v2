@@ -5,7 +5,9 @@ read -p "Enter the second number: " num2
 
 if [ $num1 -gt $num2 ]
 then
-echo "First number is greater than the second number."
+    result=$((num1 + num2))
 else
-echo "First number is not greater than the second number."
+    result=$((num2 - num1))
 fi
+
+echo "The result is $result. "
