@@ -9,6 +9,6 @@ then
     product=$((mum1 * num2))
     echo "The product of $num1 and $num2 is $product. "
 else
-    remainder=$((num1 %num2))
+    remainder=$((num1 % num2))
     echo "The remainder of dividing $num1 and $num2 is $remainder. "
 fi
