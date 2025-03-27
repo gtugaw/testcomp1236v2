@@ -1,6 +1,7 @@
 # Write a program that prompt the user to enter his/her favourite colour. The choices
 # for the user are: blue, yellow, red, orange. Print a message of your choice in response
 # to each coloured selected by the user.
+# Change by clupeasquash
 
 read -p "Enter your favorite color: " color
 
