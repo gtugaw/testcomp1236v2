@@ -1,6 +1,7 @@
 # This script calculates the sum or
 # the difference of the two numbers
 # Will this update be saved
+# Just update
 
 read -p "Enter the first number: " num1
 read -p "Enter the second number: " num2
